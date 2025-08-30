@@ -1,4 +1,4 @@
-#  <img width="2048" height="1151" alt="Picsart_25-08-30_11-02-46-611" src="https://github.com/user-attachments/assets/d8713ad4-ba65-4096-ba8c-c654f5152961" />
+# 👋 Welcome to my GitHub
 
 
 ## <img width="35" height="38" alt="Youtube_logo" src="https://github.com/user-attachments/assets/b3975ed4-adde-4141-aac9-945f6a37d26c" />  Connection to YouTube
