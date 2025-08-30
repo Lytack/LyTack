@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub
 
-<!--
-**Lytack/LyTack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📺 Connection to YouTube
+All of my projects here are connected to my YouTube videos.  
+Since it’s harder to show everything clearly on YouTube, you’ll find a better overview here
 
-Here are some ideas to get you started:
+## 🚀 Why GitHub?
+Here you can easily browse everything, download files, and try the projects yourself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Support
+If you enjoy my projects, you can support me:  
+- Give a ⭐ to the repositories  
+- Subscribe to my [YouTube channel](https://youtube/@LyTack.com)  
+- Share the projects with others 🚀  
+
+👉 Have fun exploring and building!
