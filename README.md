@@ -10,7 +10,7 @@ Here you can easily browse everything, download files, and try the projects your
 ## ⭐ Support
 If you enjoy my projects, you can support me:  
 - Give a ⭐ to the repositories  
-- Subscribe to my [YouTube channel](https://youtube/@LyTack.com)  
+- Subscribe to my [YouTube channel](https://www.youtube.com/@LyTack)  
 - Share the projects with others 🚀  
 
 👉 Have fun exploring and building!
